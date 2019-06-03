@@ -10,7 +10,6 @@ You will be able to keep crolling untill there is no more starred repos in the l
 
 If you click on a repo, you are redirected to the link of the repository.
 
-Click here to see the application on a emulator : https://snack.expo.io/@tarik.eddaqqoun/trending-repos-(-united-remote-)
 
 
 
